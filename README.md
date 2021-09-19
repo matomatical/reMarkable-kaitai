@@ -55,6 +55,8 @@ TODO:
 Credits
 -------
 
+Time for an overly gratuitous thank you speech:
+
 * Thanks to ax3l for documenting a
   [thorough exploration of the binary format](https://plasma.ninja/blog/devices/remarkable/binary/format/2017/12/26/reMarkable-lines-file-format.html),
   and for the
@@ -73,6 +75,7 @@ Credits
   online IDE. Thanks,  for helping me feel like a hacker!
 * Thanks to [reMarkable AS](https://remarkable.com/) for your awesome tablet.
   It is a technology that has an unquestionably positive impact on my life
-  (and in case anyone hasn't noticed, that's saying something).
+  (and in case anyone hasn't noticed, that's saying something for a technology
+  these days).
 
 In case it's not clear, this repository is not affiliated with reMarkable AS.
